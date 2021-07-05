@@ -21,7 +21,7 @@ dotfiles push
 
 ### Define alias in current shell scope
 
-`alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=#HOME'
+`alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=#HOME'`
 
 ### Checkout content to your $HOME dir
 
